@@ -1,0 +1,2307 @@
+/*start global */
+/*start body*/
+
+/*end body*/
+
+*
+{
+   -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+}
+.services-marine
+{
+ background: #f8f8f8;
+ margin-bottom: 25px;
+ border: 1px solid #e7e7e7;
+}
+
+.services-marine h3
+{
+   color: #c9b03c;
+  font-weight: bold;
+  text-align: center;
+  font-size: 15px;
+  display: inline
+}
+
+.services-marine p
+{
+font-size: 16px;
+color: #022f61;
+text-align: left;
+font-weight: bold;
+text-align: center;
+margin-top: 16px;
+}
+.services-marine a
+{
+text-decoration: none
+}
+.services-marine
+{
+ overflow: hidden;
+}
+
+.services-marine img
+{
+ width: 40px;
+ height: 40px;
+}
+.services-marine .vessel, .services-marine .Seafarers, .services-marine .Consultancy, .services-marine .Statutory,
+.services-marine .rail, .services-marine .Inspections, .services-marine .chain, .services-marine .Vacancies
+
+{
+ float: left;
+ width: 23.5%;
+}
+
+.services-marine .vessel, .services-marine .Seafarers, .services-marine .Consultancy,
+.services-marine .rail, .services-marine .Inspections, .services-marine .chain
+
+{
+ margin-right: 2%;
+}
+
+.services-marine .Suppliers, .services-marine .Crew, .services-marine .Provision, .services-marine .Ships, .services-marine .Suez, .services-marine .Technical
+{
+ float: left;
+ width: 32%
+}
+.services-marine .Suppliers, .services-marine .Crew,.services-marine .Ships, .services-marine .Suez
+{
+ margin-right: 2%
+}
+
+.services-marine .Suppliers, .services-marine .Crew, .services-marine .Provision, .services-marine .Ships,
+.services-marine .Suez, .services-marine .Technical
+{
+ border: 1px solid #E1E1E1;
+ margin-bottom: 50px;
+ padding: 2px;
+}
+
+.services-marine .Suppliers:hover, .services-marine .Crew:hover, .services-marine .Provision:hover, .services-marine .Ships:hover,
+.services-marine .Suez:hover, .services-marine .Technical:hover
+{
+ border: 1px solid #c9b03c;
+}
+
+
+.flags-marine .belize, .flags-marine .honduras, .flags-marine .palau, .flags-marine .panama,
+.flags-marine .sierra, .flags-marine .comoros, .flags-marine .bolivia
+{
+ float: left;
+ width:25%;
+ margin-bottom: 10px;
+}
+
+.flags-marine h3
+{
+ color: #337ab7;
+ font-weight: bold;
+}
+.flags-marine
+{
+ background: #f8f8f8;
+border: 1px solid #e7e7e7;
+margin-bottom: 25px;
+}
+.flags-marine .map img
+{
+ width: 100%
+}
+/*start about us */
+
+
+/* end about us */
+/*start contact us */
+.contact-us .fa
+{
+ font-size: 47px;
+ color: #c9b03c;
+ text-align: center
+}
+.contact-us h2
+{
+ color: #022f61;
+  text-align: center;
+  font-weight: bold;
+  font-size: 17px;
+}
+
+.contact-us
+{
+ overflow: hidden;
+ text-align: center;
+ background: #f8f8f8;
+border: 1px solid #e7e7e7;
+margin-bottom: 25px;
+}
+
+.contact-us .phone, .contact-us .sendmail, .contact-us .adreesscompany
+{
+ float: left;
+ width: 32%
+}
+
+.contact-us .phone, .contact-us .sendemail
+{
+ margin-right: 2%
+}
+
+.contact-us .mo
+{
+ font-size: 44px
+}
+
+.contact-us .ma
+{
+  font-size: 45px
+}
+/*end contact us*/
+/* start header */
+
+
+
+.header-top .head div
+{
+  color:#022f61;
+  font-weight: bold;
+  font-size: 25px;
+  margin-top: 25px;
+}
+
+.header-top .head span
+{
+ color:#c0b33c;
+}
+/*
+.header-top .head
+{
+ background: #f8f8f8;
+ border-top:  1px solid #e7e7e7;
+ border-bottom:  1px solid #e7e7e7;
+}
+.header-top .head div
+{
+  color:#022f61;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 1;
+  padding: 10px;
+  text-align: center;
+}
+
+.header-top .head span
+{
+ color:#c0b33c;
+}
+*/
+/* start about */
+.about-us
+{
+ margin-bottom: 50px;
+background: #f8f8f8;
+border: 1px solid #e7e7e7;
+margin-bottom: 25px;
+margin-top: 25px;
+}
+
+.about-us .carousel-inner
+{
+ height: 250px;
+}
+.about-us .item img
+{
+ width: 100%;
+ height: 250px;
+}
+
+.about-us .item h1
+{
+ color: #c9b03c;
+ padding: 0;
+ margin: 0px;
+}
+
+.about-us .item h1
+{
+color: #c9b03c;
+}
+.about-us p
+{
+ color: #020224;
+ font-size: 25px;
+ font-weight: bold
+}
+
+.about-us .overlay {
+    background: #FFF;
+    opacity: 0.75;
+    border: 1px solid #e7e7e7;
+    width: 100%;
+    padding-top: 10px;
+}
+
+.aboutt-us
+{
+ margin-bottom: 50px;
+background: #f8f8f8;
+border: 1px solid #e7e7e7;
+margin-bottom: 25px;
+margin-top: 25px;
+padding-bottom: 40px;
+}
+
+.aboutt-us .carousel-inner
+{
+ height: 250px;
+}
+.aboutt-us .item img
+{
+ width: 100%;
+ height: 250px;
+}
+
+.aboutt-us .item h1
+{
+ color: #c9b03c;
+ padding: 0;
+ margin: 0px;
+}
+
+.aboutt-us .item h1
+{
+color: #c9b03c;
+}
+.aboutt-us p
+{
+ color: #020224;
+ font-size: 25px;
+ font-weight: bold
+}
+
+/*end about */
+
+/*start work*/
+.industries
+{
+ background:  #f8f8f8;
+ margin-bottom: 25px;
+ border: 1px solid #e7e7e7;
+}
+
+.industries h1
+{
+ text-align: center;
+ margin-bottom: 10px;
+ font-size:30px;
+}
+
+.industries .carousel-inner
+{
+ width: 100%;
+ height: 420px;
+}
+.industries .carousel-indicators li
+{
+ border: 2px solid #022f61;
+}
+.industries .carousel-indicators li:hover
+{
+ background-color: #c9b03c;
+}
+.industries .carousel-indicators .active 
+{
+ background-color: #c9b03c;
+}
+
+
+.industries h2
+{
+color: #c9b03c;
+text-align: center;
+}
+.industries .aerospace
+{
+ margin: auto;
+ text-align: center
+}
+
+.industries  p
+{
+  width: 480px;
+  color: #022f61;
+  font-size: 20px;
+  font-weight: bold;
+  border: 1px solid #CCC;
+  padding: 5px;
+  padding: 10px;
+  padding-left: 5px;
+  margin-top: 20px;
+  height:220px;
+  margin: auto;
+  text-align: justify;
+  margin-bottom: 10px;
+}
+
+.contact-us .fa
+{
+ font-size: 36px;
+ color: #022f61
+}
+/*end work */
+/*start footer*/
+.ourservices
+{
+ overflow: hidden;
+}
+.loca, .who, .air, .aero
+{
+ float: left;
+}
+
+
+
+.loca, .who, .air, .aero
+{
+ width: 23.5%
+}
+.who, .air, .aero
+ {
+  margin-right: 2%
+ }
+.who ul, .air ul , .aero ul, .loca ul
+{
+ list-style: none;
+ padding: 0
+}
+.who ul li, .air ul li , .aero ul li, .loca ul li, .loca .req-services ul li
+{
+ padding: 1px 1px 1px 0;
+ font-size: 14px;
+ color: #022f61;
+ margin-top: 10px;
+ font-weight: bold;
+}
+
+.quicklinks
+{
+ overflow: hidden
+}
+.quicklinks ul
+{
+ list-style: none;
+ padding: 0
+}
+
+.quicklinks ul li
+{
+ padding: 10px 10px 10px 0;
+ font-size: 20px;
+ color: #022f61;
+ margin-top: 10px;
+  font-weight: bold;
+  float: left;
+  margin-right: 70px;
+}
+.followus .fa
+{
+    font-size: 36px;
+    margin-right: 33px;
+}
+
+.followus .fa-facebook-square
+{
+ color: #3b5998;
+}
+.followus .fa-twitter-square
+{
+ color: #1da1f2
+}
+
+.followus .fa-linkedin-square
+{
+ color: #0077b5
+}
+
+.followus .fa-instagram
+{
+ color: #f77737
+}
+
+.followus .fa-youtube-square
+{
+ color: #ff0000
+}
+
+.followus .fa-skype
+{
+ color: #00aff0
+}
+.footerr
+{
+ background: #f8f8f8;
+ margin-top: 20px;
+ border: 1px solid #e7e7e7;
+}
+
+.newsletter, .ourservices, .quicklinks, .followus
+{
+ border-bottom: 1px solid #CCC;
+ padding-bottom: 20px
+}
+
+.copyright {
+    font-size: 14px;
+    color: #c9b03c;
+    font-weight: bold;
+    text-align: center
+}
+
+.copy-right span {
+    font-weight: bold;
+    font-size: 12px;
+    color: #022f61;
+}
+
+
+.footerr h2
+{
+  color: #c9b03c;
+  font-weight: bold;
+  font-size: 19px;
+}
+
+.footerr a
+{
+ text-decoration: none;
+}
+.industries a
+{
+  text-decoration: none;
+}
+
+.services-marine .vessel, .services-marine .Seafarers, .services-marine .Consultancy, .services-marine .Statutory,
+.services-marine .rail, .services-marine .Inspections, .services-marine .chain, .services-marine .Vacancies
+{
+ border: 1px solid #E1E1E1;
+ margin-bottom: 50px;
+ padding: 2px;
+}
+
+.services-marine .vessel:hover, .services-marine .Seafarers:hover, .services-marine .Consultancy:hover, .services-marine .Statutory:hover,
+.services-marine .rail:hover, .services-marine .Inspections:hover, .services-marine .chain:hover, .services-marine .Vacancies:hover
+{
+ border: 1px solid #c9b03c;
+}
+/*end footer*/
+
+
+.navbar-default .navbar-nav > li > a,.dropdown-menu > li > a
+{
+ font-weight: bold;
+}
+
+/*start login form */
+/*
+.login
+{
+ width: 400px;
+ margin: 175px auto;
+
+}
+
+.login input
+{
+ margin-bottom: 10px;
+}
+*/
+form h2
+{
+    font-weight: bold;
+    color:#337ab7;
+    text-align: center;
+}
+/*end login form */
+
+/*start signup form */
+/*
+.signup
+{
+ width: 700px;
+ margin:auto;
+
+}
+
+.signup input
+{
+ margin-bottom: 10px;
+}
+*/
+form h2
+{
+    font-weight: bold;
+    color:#337ab7;
+    text-align: center;
+}
+/*end signup form */
+
+/*start contact form */
+
+
+.subscribed
+{
+ width: 700px;
+ margin: auto;
+}
+.contactform input
+{
+ margin-bottom: 10px;
+}
+
+.subscribed input
+{
+ margin-bottom: 10px;
+}
+
+form h2
+{
+    font-weight: bold;
+    color:#337ab7;
+    text-align: center;
+}
+
+
+.custom-alert
+{
+ display: none;
+}
+
+/*end contact form */
+
+/* start navbar */
+.navbarr-media
+{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus
+{
+  color: #022f61;
+}
+.navbar-header img {
+    margin-top: 5px;
+}
+.dropdown-menu > li > a:hover
+{
+    color: #0b8af7
+}
+
+.dropdown-menu > li > a
+{
+  color:#022f61;
+font-size: 18px;
+}
+
+.navbar-default .navbar-nav > li > a:hover
+{
+   color: #0b8af7 
+}
+
+.navbar-default .navbar-nav > li > a:focus
+{
+    color: #0a4f8a;  
+}
+.navbar-default .navbar-brand
+{
+  color:#337ab7;
+font-size: 23px;
+}
+.navbar-default .bold {
+    font-weight: bold;
+    font-size: 27px;
+    color:#c9af3e;
+}
+.navbar-default .navbar-brand:hover
+{
+   color: #f5ca0f
+}
+
+.navbar-default {
+    background-color: #f8f8f8;
+    border-color: #e7e7e7;
+}
+
+
+.navbar-default .navbar-nav > li > a {
+    color: #022f61;
+    font-size: 17px;
+    padding: 6px;
+    padding-left: 0;
+    margin-right: 8px;
+}
+.global {
+    color: #022f61;
+    margin-top: 23px;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 65px;
+}
+
+.global span
+{
+color: #c9b03c;
+}
+/*end navbar */
+/*start contact form */
+
+h1
+{
+    font-size: 30px;
+    margin: 8px 0;
+    font-weight: bold;
+    color:#c9b03c;
+}
+
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12
+{
+    color:#337ab7;    
+}
+
+.container-contact
+{
+    background: #f8f8f8;
+    border: 1px solid #e7e7e7;
+}
+
+
+/*end  contact form */
+/* start branch page */
+
+
+
+
+
+.offering .icons .picture, .offering .icons .awesone
+{
+  float: left;
+}
+
+.offering .icons .picture
+{
+ margin-right: 5%
+}
+
+
+
+
+
+.offering .itemm
+{
+ overflow: hidden;
+ margin-bottom: 41px;
+}
+
+.icons
+{
+width: 27%;
+margin-right: 13%
+}
+
+
+.text
+{
+width: 60%;
+font-size: 20px;
+font-weight: bold;
+color: #022f61;
+text-align: justify
+}
+.offering .icons .awesone h2
+{
+ font-weight: bold;
+ color:#c9b03c;
+ font-size: 16px;
+ text-align: left
+}
+.icons, .text
+{
+ float: right;
+}
+.offering
+{
+ overflow: hidden;
+}
+.offering .icons img
+{
+ width:30px;
+ height:30px;
+ position: relative;
+ top: 8px;
+}
+
+.offering li
+{
+ text-align: left
+}
+.baner img {
+    width: 100%;
+    height: 300px;
+}
+.baner {
+    margin-top: 42px;
+    margin-bottom: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.offering a
+{
+ text-decoration: none
+}
+
+.offering h1
+{
+ margin: 0;
+ margin-bottom:40px;
+ font-size: 30px;
+}
+/*end branch page*/
+/*end global */
+.offering h3, .offering h1
+{
+ color: #c9b03c;
+ text-align: center;
+}
+ .offering h2
+ {
+   color: #c9b03c;
+   text-align: left;
+   font-size: 24px;
+ }
+.offering h4
+{
+ color: #c9b03c;
+ font-size: 20px
+}
+.sustainability p
+{
+ font-size: 16px;
+color: #022f61;
+font-weight: bold;
+text-align: justify
+}
+
+.navbar-fixed-bottom .navbar-collapse {
+    padding-right: 0;
+    padding-left: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.branche-one,.branche-two
+{
+ float:left;
+ width:49%;
+ border:1px solid #e7e7e7;
+}
+.branche-one
+{
+ margin-right: 2%
+}
+.branches
+{
+ overflow: hidden;
+background: #f8f8f8;
+ border: 1px solid #e7e7e7;
+ margin-bottom:  25px;
+ padding-bottom: 20px;
+}
+.branches h3
+{
+ color: #c9b03c;
+ font-weight: bold;
+  text-align: center;
+}
+.branches .branche-one .fa
+{
+ text-align: center;
+ color: #022f61;
+ font-size: 28px;
+ margin-right: 10px;
+}
+
+.branches span
+{
+ color: #022f61;
+ font-size: 16px;
+ font-weight: bold;
+text-align: center;
+}
+
+.branches .branche-two .fa
+{
+ text-align: center;
+ color: #022f61;
+ font-size: 28px;
+ margin-right: 10px;
+}
+
+
+
+.bran
+{
+ text-align: center
+}
+
+.text .engine
+{
+ overflow: hidden
+}
+.text .engine-one, .text .engine-two
+{
+ float: left;
+ width: 50%
+}
+
+.text .engine-one li, .text .engine-two li
+{
+ text-align: left;
+ font-size: 17px
+}
+
+.text .engine-one ul, .text .engine-two ul
+{
+ padding-left: 28px
+}
+
+.text .engine-one, .text .engine-two
+{
+ border: 1px solid #e7e7e7;
+ padding-top: 30px
+}
+
+.line-marine li
+{
+ line-height: 37px;
+}
+
+select{
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    height: 56px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #022f61;
+    margin-bottom: 13px;
+    background: #f8f8f8;
+    border: 1px solid #CCC;
+    border-radius: 5px;
+    width:100%;
+    text-align: center;
+}
+
+.text a, .container-contact a
+{
+ color: #FFF;
+ font-weight: bold;
+ text-decoration: none;
+}
+
+.scroll-to-top {
+    background: #022f61;
+    color: #FFF;
+    padding: 0px 5px 3px;
+    position: fixed;
+    display: block;
+    bottom: 93px;
+    right: 39px;
+    display: none;
+    font-size: 20px;
+}
+.contact-branches
+{
+ width: 100%;
+ float: none;
+ margin: 0
+}
+.func-sig
+{
+ margin-top: 200px;
+}
+
+.services-marine .searching
+{
+ width: 100%;
+ float: none;
+ margin-right: 0;
+ margin-bottom: 17px;
+}
+.services-marine .searching p
+{
+ text-align: left;
+}
+
+.services-marine .searching h3
+{
+ font-size: 18px;
+}
+.containerr-contact {
+    background: #f8f8f8;
+    border: 1px solid #e7e7e7;
+    margin-bottom: 25px;
+    overflow: hidden;
+}
+.container-contact {
+    margin-bottom: 25px;
+}
+.containerr-contact .sear
+{
+ width: 85%;
+ float: left;
+ margin-right: 10px
+}
+.followusnav .fa
+{
+ margin-right: 0;
+ font-size: 32px;
+}
+
+.followusnav
+{
+ border: none
+}
+
+.followusnav
+{
+ float: right;
+ margin-left: 5px
+}
+
+.form-search
+{
+ float: left;
+}
+
+.form-search .sear-alert
+{
+ padding: 5px;
+ margin-right: 5px;
+ position: relative;
+ top: 2px;
+}
+.navbar-form
+{
+ margin-bottom: 0
+}
+.panel-primary {
+    border-color: #337ab7;
+    margin-top: 18px;
+}
+h4
+{
+ color: #c9b03c;
+ margin-top: 2px;
+margin-bottom: 1px;
+margin-left: 8px;
+}
+h3
+{
+ font-size: 19px;
+}
+
+.panel-body
+{
+ padding: 0;
+}
+.panel-body .commentings
+{
+ margin-bottom: 2px;
+ overflow: hidden;
+ width: 100%;
+}
+.panel-body .commentings:last-of-type
+{
+  margin-bottom: 0
+}
+.panel-body span
+{
+ color: #022f61;
+ font-weight: bold;
+ margin-left: 8px;
+ margin-bottom: 2px;
+}
+.panel-heading
+{
+ padding-top: 1px;
+}
+.container-contact .btn-primary
+{
+ margin-bottom: 10px;
+}
+
+.signuplogin
+{
+ font-size: 14px;
+ color: #022f61;
+}
+
+/*start media very small screen*/
+@media(max-width:420px){
+    /*start navbar*/
+
+  /* end navbar */
+
+.signup
+{
+ width: 300px;
+ margin:auto;
+
+}
+.login
+{
+ width: 300px;
+ margin: 175px auto;
+
+}
+.signup input
+{
+ margin-bottom: 10px;
+}
+
+form h2
+{
+    font-weight: bold;
+    text-align: center;
+}
+
+.contactform
+{
+ width: 100%;
+}
+
+.contactform input
+{
+ margin-bottom: 10px;
+}
+
+form h2
+{
+    font-weight: bold;
+    text-align: center;
+}
+
+
+.loca, .who, .air, .aero
+{
+ float: none;
+}
+
+.loca, .who, .air, .aero
+{
+ width: 100%
+}
+.who, .air, .aero
+ {
+  margin-right: 0
+ }
+
+.services-marine .vessel, .services-marine .Seafarers, .services-marine .Consultancy, .services-marine .Statutory,
+.services-marine .rail, .services-marine .Inspections, .services-marine .chain, .services-marine .Vacancies
+{
+ float: none;
+ width: 100%
+}
+.flags-marine
+{
+ text-align: center;
+}
+.flags-marine .belize, .flags-marine .honduras, .flags-marine .palau, .flags-marine .panama,
+.flags-marine .sierra, .flags-marine .comoros, .flags-marine .bolivia
+{
+ float: none;
+ width:100%;
+ margin-bottom: 10px;
+}
+
+.header .head
+{
+ height: 570px;
+ border: 1px solid #e7e7e7;
+width: 300px;
+ text-align: center;
+ margin: auto;
+}
+
+.header .head img
+{
+ height: 570px;
+ border: 1px solid #e7e7e7;
+ width: 300px;
+ text-align: center;
+ margin: auto;
+}
+
+.footerr h2 {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.copyright {
+    font-size: 14px;
+    color: #c9b03c;
+    font-weight: bold;
+}
+
+.copy-right span {
+    font-weight: bold;
+    font-size: 12px;
+    color: #022f61;
+}
+
+.about-us p {
+    font-size: 13.5px;
+    font-weight: bold;
+}
+
+
+.online, .member, .relax
+{
+ float: none;
+ width: 100%;
+}
+
+.online, .member
+{
+ margin-right: 0
+}
+.our-works p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+.our-works h4 {
+    color: #F00;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.our-works .relaxx {
+    color: #F00;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.contact-us .phone, .contact-us .sendmail, .contact-us .adreesscompany
+{
+ float: none;
+ width: 100%
+}
+
+.contact-us .phone, .contact-us .sendemail
+{
+ margin-right: 0
+}
+.navbar-default .navbar-toggle {
+    border-color: #ddd;
+    margin-top: 45px;
+}
+
+.global{
+ font-size: 18px;
+ margin-top: 13px
+}
+
+.navbar-default .navbar-nav > .gems > a
+{
+ display: none;
+}
+.industries {
+    background: #f8f8f8;
+    text-align: center
+}
+
+.industries h2
+{
+ text-align: center;
+ margin-bottom: 10px;
+ font-size: 26px
+}
+
+.industries h1
+{
+ font-size: 21px
+}
+.industries .item .aerospace
+{
+  width: 300px;
+}
+
+
+.industries .carousel-inner
+{
+  width: 300px;
+ height: 511px;
+ margin: auto
+}
+.industries .carousel-indicators li
+{
+ border: 2px solid #022f61;
+
+}
+.industries .carousel-indicators li:hover
+{
+ background-color: #c9b03c;
+
+}
+.industries .carousel-indicators .active 
+{
+ background-color: #c9b03c;
+
+}
+.navbar-default .navbar-nav .open .dropdown-menu > li > a
+{
+  color:#022f61;
+font-size: 18px;
+}
+
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover
+{
+    color: #0b8af7;
+    font-size: 18px;
+}
+.industries  p
+{
+  width: 300px;
+  color: #022f61;
+  font-size: 20px;
+  font-weight: bold;
+  border: 1px solid #CCC;
+   margin-bottom: 10px;
+   height: 335px;
+}
+.industries .aerospace img {
+    margin-left: 0px;
+}
+
+.icons
+{
+ width: 100%;
+margin-right: 0
+}
+
+.icons, .text
+{
+ float: none;
+ text-align: center
+}
+.text
+{
+width: 100%;
+font-size: 18px;
+font-weight: bold;
+}
+.icons .itemm
+{
+ margin: auto;
+}
+.industries .carousel-indicators li
+{
+ border: 2px solid #022f61;
+   width: 16px;
+  height: 16px;
+}
+.offering .icons .awesone h2 {
+    font-weight: bold;
+    color: #c9b03c;
+    font-size: 18px;
+}
+
+.baner img {
+    width: 100%;
+    height: 150px;
+}
+.aboutt-us .carousel-inner
+{
+ height: 150px;
+}
+.aboutt-us .item img
+{
+ width: 100%;
+ height: 150px;
+}
+
+.branche-one,.branche-two
+{
+ float:none;
+ width:100%
+}
+.branches h3 {
+    color: #c9b03c;
+    font-weight: bold;
+    font-size: 18px;
+}
+.branche-one
+{
+ margin-bottom: 5%
+}
+.navbar-default  br
+{
+ display: none
+}
+body
+{
+ padding-top: 98px
+}
+
+.services-marine .Suppliers, .services-marine .Crew, .services-marine .Provision, .services-marine .Ships, .services-marine .Suez, .services-marine .Technical
+{
+ float: none;
+ width: 100%;
+ margin-right: 0
+}
+
+.text .engine-one, .text .engine-two
+{
+ float: none;
+ width: 100%
+}
+
+.text .engine-one li, .text .engine-two li
+{
+ text-align: left;
+ font-size: 17px
+}
+
+.text .engine-one ul, .text .engine-two ul
+{
+ padding-left: 28px
+}
+
+.text .engine-one, .text .engine-two
+{
+ border: none;
+ padding-top: 0
+}
+select{
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    height: 46px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #022f61;
+    margin-bottom: 13px;
+    width: 100%
+}
+
+.request-loge
+{
+ margin-right: 0
+}
+.containerr-contact .sear
+{
+ width: 65%;
+}
+.seara
+{
+ width: 69%;
+ float: left;
+ margin-right: 10px
+}
+
+.followusnav
+{
+ float: none;
+ margin-left: 0
+}
+.navbar-form
+{
+    margin-bottom: 0;
+}
+.form-search
+{
+ float: none;
+}
+
+.form-search .sear-alert
+{
+ padding: 5px;
+ margin-right: 5px;
+ position: relative;
+ top: 2px;
+ margin-bottom: 5px;
+ margin-top: 2px;
+}
+}
+/*end media very small screen*/
+
+/*start media  small screen*/
+/*start navbar */
+@media(min-width:421px) and (max-width:767px){
+ body
+ {
+  padding-top: 98px;
+ }
+    .col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    font-size: 22px;
+    
+}
+
+.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color:#022f61;
+}
+
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover {
+    color: #0b8af7
+}
+
+.navbar-default .navbar-nav > li > a
+{
+ font-size: 18px;
+}
+.signup
+{
+ max-width: 400px;
+ margin:auto;
+
+}
+
+.signup input
+{
+ margin-bottom: 10px;
+}
+
+form h2
+{
+    font-weight: bold;
+    color:#337ab7;
+    text-align: center;
+}
+
+
+.contactform input
+{
+ margin-bottom: 10px;
+}
+
+form h2
+{
+    font-weight: bold;
+    color:#337ab7;
+    text-align: center;
+}
+
+.loca, .who, .air, .aero
+{
+ float: none;
+}
+
+.loca, .who, .air, .aero
+{
+ width: 100%
+}
+.who, .air, .aero
+ {
+  margin-right: 0
+ }
+.quicklinks ul li {
+    padding: 10px 10px 10px 0;
+    font-size: 20px;
+    margin-top: 10px;
+    font-weight: bold;
+    float: left;
+    margin-right: 21px;
+}
+
+.services-marine .vessel, .services-marine .Seafarers, .services-marine .Consultancy, .services-marine .Statutory,
+.services-marine .rail, .services-marine .Inspections, .services-marine .chain, .services-marine .Vacancies
+{
+ float: none;
+ width: 100%
+}
+
+.flags-marine
+{
+ text-align: center;
+}
+.flags-marine .belize, .flags-marine .honduras, .flags-marine .palau, .flags-marine .panama,
+.flags-marine .sierra, .flags-marine .comoros, .flags-marine .bolivia
+{
+ float: none;
+ width:100%;
+ margin-bottom: 10px;
+}
+.header .head
+{
+ height: 570px;
+ border: 1px solid #e7e7e7;
+ width: 420px;
+ text-align: center;
+ margin: auto;
+}
+
+.header .head img
+{
+ height: 570px;
+ border: 1px solid #e7e7e7;
+ width: 420px;
+ text-align: center;
+ margin: auto;
+}
+
+.copyright {
+    font-size: 14px;
+    color: #c9b03c;
+    font-weight: bold;
+}
+
+.copy-right span {
+    font-weight: bold;
+    font-size: 12px;
+    color: #022f61;
+}
+
+
+
+
+.about-us p {
+    font-size: 15.5px;
+    font-weight: bold;
+}
+
+
+.online, .member, .relax
+{
+ float: none;
+ width: 100%;
+}
+
+.online, .member
+{
+ margin-right: 0
+}
+.our-works p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+.our-works h4 {
+    color: #F00;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.our-works .relaxx {
+    color: #F00;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.contact-us .phone, .contact-us .sendmail, .contact-us .adreesscompany
+{
+ float: none;
+ width: 100%
+}
+
+.contact-us .phone, .contact-us .sendemail
+{
+ margin-right: 0
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #ddd;
+    margin-top: 42px;
+}
+
+
+
+
+
+
+.industries {
+    background: #f8f8f8;
+}
+
+.industries h1
+{
+ text-align: center;
+ margin-bottom: 10px;
+ font-size: 23px;
+}
+.industries .item .aerospace
+{
+  width: 400px;
+}
+
+
+.industries .carousel-inner
+{
+  width: 400px;
+ height: 459px;
+ margin: auto;
+}
+.industries .carousel-indicators li
+{
+ border: 2px solid #022f61
+}
+.industries .carousel-indicators li:hover
+{
+ background-color: #c9b03c;
+}
+.industries .carousel-indicators .active 
+{
+ background-color: #c9b03c;
+}
+.industries  p
+{
+  width: 375px;
+  color: #022f61;
+  font-size: 20px;
+  font-weight: bold;
+  border: 1px solid #CCC;
+  height: 275px;
+  margin: auto;
+  margin-bottom: 10px;
+  
+}
+.icons
+{
+ width: 100%;
+margin-right: 0
+}
+
+.icons, .text
+{
+ float: none;
+ text-align: center
+}
+.text
+{
+width: 100%;
+font-size: 18px;
+font-weight: bold;
+}
+.industries .carousel-indicators li
+{
+ border: 2px solid #022f61;
+   width: 16px;
+  height: 16px;
+}
+.baner {
+    margin-top: 42px;
+    margin-bottom: 18px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.baner img {
+    width: 100%;
+    height: 150px;
+
+}
+
+.offering h1 {
+    margin: 0;
+    margin-bottom: 0;
+}
+
+.aboutt-us .carousel-inner
+{
+ height: 150px;
+}
+.aboutt-us .item img
+{
+ width: 100%;
+ height: 150px;
+}
+.branche-one,.branche-two
+{
+ float:none;
+ width:100%
+}
+.branche-one
+{
+ margin-bottom: 5%
+}
+.navbar-default  br
+{
+ display: none
+}
+
+.services-marine .Suppliers, .services-marine .Crew, .services-marine .Provision, .services-marine .Ships, .services-marine .Suez, .services-marine .Technical
+{
+ float: none;
+ width: 100%;
+ margin-right: 0
+}
+
+.text .engine-one, .text .engine-two
+{
+ float: none;
+ width: 100%
+}
+
+.text .engine-one li, .text .engine-two li
+{
+ text-align: left;
+ font-size: 17px
+}
+
+.text .engine-one ul, .text .engine-two ul
+{
+ padding-left: 28px
+}
+
+.text .engine-one, .text .engine-two
+{
+ border: none;
+ padding-top: 0
+}
+select{
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    height: 46px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #022f61;
+    margin-bottom: 13px;
+    width: 100%
+}
+.request-loge
+{
+ margin-right: 0
+}
+.containerr-contact .sear
+{
+ width: 74%;
+}
+.contactform
+{
+ margin: auto
+}
+.seara
+{
+ width: 69%;
+ float: left;
+ margin-right: 10px
+}
+
+.followusnav
+{
+ float: none;
+ margin-left: 0
+}
+.navbar-form
+{
+    margin-bottom: 0;
+}
+.form-search
+{
+ float: none;
+}
+
+.form-search .sear-alert
+{
+ padding: 5px;
+ margin-right: 5px;
+ position: relative;
+ top: 2px;
+ margin-bottom: 5px;
+ margin-top: 2px;
+}
+
+.about-us .item img {
+    width: 100%;
+    height: 300px;
+}
+.about-us .carousel-inner {
+    height: 300px;
+}
+}
+ /*end navbar */
+
+/*end media  small screen*/
+/*start media  medium screen*/
+@media(min-width:768px) and (max-width:991px){
+ 
+
+
+ /*start navbar */   
+.navbarr-media
+{
+    width:750px;
+    margin: auto;
+}
+
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    font-size: 23px;
+    
+}
+
+.dropdown-menu > li > a
+{
+  color:#022f61;
+  font-size: 10.5px;
+}
+.navbar-default .navbar-brand
+{
+  color:#337ab7;
+}
+
+
+.navbar-nav .dropdown .dropdown-menu 
+{
+ display: none;
+ position: absolute;
+ z-index: 1;
+}
+
+.dropdown:hover .dropdown-menu
+{
+ display: block;
+ transition: all .5s ease-in-out;
+}
+
+
+ /*end navbar */
+ /*start contact form */
+.form-horizontal .form-group-lg .control-label {
+    padding-top: 11px;
+    font-size: 19px;
+}
+
+.navbar-right
+{
+ float: none;
+}
+
+.quicklinks ul li {
+    padding: 10px 10px 10px 0;
+    font-size: 23px;
+    margin-top: 10px;
+    font-weight: bold;
+    float: left;
+    margin-right: 34px;
+}
+
+
+.services-marine .vessel, .services-marine .Seafarers, .services-marine .Consultancy, .services-marine .Statutory,
+.services-marine .Inspections, .services-marine .Insurance, .services-marine .Vacancies, .services-marine .Supply,
+.services-marine .Bunkering, .services-marine .Surveyss
+{
+ float: left;
+ width: 49%
+}
+
+.flags-marine
+{
+ text-align: center;
+}
+.flags-marine .belize, .flags-marine .honduras, .flags-marine .palau, .flags-marine .panama,
+.flags-marine .sierra, .flags-marine .comoros, .flags-marine .bolivia
+{
+ float: left;
+ width:50%;
+ margin-bottom: 10px;
+}
+.header .head
+{
+ height: 570px;
+ border: 1px solid #e7e7e7;
+ width: 767px;
+ text-align: center;
+ margin: auto;
+}
+
+.header .head img
+{
+ height: 570px;
+ border: 1px solid #e7e7e7;
+ width: 767px;
+ text-align: center;
+ margin: auto;
+}
+
+.copyright {
+    font-size: 14px;
+    color: #c9b03c;
+    font-weight: bold;
+}
+
+.copy-right span {
+    font-weight: bold;
+    font-size: 12px;
+    color: #022f61;
+}
+
+.about-us p {
+    font-size: 19.5px;
+    font-weight: bold;
+}
+
+.services-marine p {
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #022f61;
+    margin-top: 16px;
+}
+
+
+
+
+.navbar-default .navbar-nav > li > a {
+    padding: 2px;
+    color: #022f61;
+    font-size: 10.5px;
+    margin-right: 0;
+    font-weight: bold;
+    margin-top: 0
+}
+
+
+
+.services-marine .vessel, .services-marine .Seafarers, .services-marine .Consultancy, .services-marine .Statutory,
+.services-marine .rail, .services-marine .Inspections, .services-marine .chain, .services-marine .Vacancies
+
+{
+ float: left;
+ width: 46%;
+}
+
+.services-marine .vessel, .services-marine .Consultancy,.services-marine .rail,.services-marine .chain
+
+{
+ margin-right: 6%;
+}
+.ourservices h2
+{
+ font-size: 21px;
+}
+
+.baner img {
+    width: 100%;
+    height: 200px;
+}
+
+.aboutt-us .carousel-inner
+{
+ height: 200px;
+}
+.aboutt-us .item img
+{
+ width: 100%;
+ height: 200px;
+}
+
+.navbar-header img {
+    margin-right: 5px;
+}
+
+.branches span
+{
+ color: #022f61;
+ font-size: 14px;
+ font-weight: bold;
+text-align: center;
+}
+
+.contact-us h2 {
+    color: #022f61;
+    text-align: center;
+    font-weight: bold;
+    font-size: 13px;
+}
+body
+{
+ padding-top: 113px;
+}
+.text .engine-one li, .text .engine-two li
+{
+ text-align: left;
+ font-size: 15px
+}
+
+.text .engine-one ul, .text .engine-two ul
+{
+ padding-left: 18px
+}
+.form-search .sear-alert
+{
+ padding: 5px;
+ margin-right: 5px;
+ width: 195px;
+ margin-bottom: 1px;
+}
+}
+/*end  contact form */
+/*end media  medium screen*/
+
+/*start media  large screen*/
+@media(min-width:992px) and (max-width:1199px){
+
+/*start navbar*/
+    .navbarr-media
+{
+    width:970px;
+    margin: auto;
+}
+
+
+.navbar-nav .dropdown .dropdown-menu 
+{
+ display: none;
+ position: absolute;
+ z-index: 1;
+}
+
+.dropdown:hover .dropdown-menu
+{
+ display: block;
+ transition: all .5s ease-in-out;
+}
+/*end navbar */
+/*start contact form */
+.form-horizontal .form-group-lg .control-label {
+    padding-top: 11px;
+    font-size: 22px;
+}
+.dropdown-menu > li > a {
+    font-size: 15px;
+    font-weight: bold;
+}
+.header .head
+{
+ height: 570px;
+ border: 1px solid #e7e7e7;
+width: 991px
+}
+
+.header .head
+{
+ height: 570px;
+ border: 1px solid #e7e7e7;
+ width: 990px;
+ text-align: center;
+ margin: auto;
+}
+
+.header .head img
+{
+ height: 570px;
+ border: 1px solid #e7e7e7;
+ width: 990px;
+ text-align: center;
+ margin: auto;
+}
+
+.about-us p {
+    font-size: 22.5px;
+    font-weight: bold;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #022f61;
+    font-size: 14px;
+    margin-right: 8px;
+}
+
+.icons
+{
+width: 33%;
+margin-right: 13%
+}
+
+
+.text
+{
+width: 54%;
+font-size: 20px;
+font-weight: bold;
+color: #022f61
+}
+.copyright {
+    font-size: 14px;
+    color: #c9b03c;
+    font-weight: bold;
+}
+
+.copy-right span {
+    font-weight: bold;
+    font-size: 12px;
+    color: #022f61;
+}
+
+.baner img {
+    width: 100%;
+    height: 250px;
+}
+.aboutt-us .carousel-inner
+{
+ height: 250px;
+}
+.aboutt-us .item img
+{
+ width: 100%;
+ height: 250px;
+}
+
+.navbar-header img {
+    margin-right: 5px;
+}
+.services-marine h3 {
+    color: #c9b03c;
+    font-weight: bold;
+    text-align: center;
+    font-size: 14px;
+    display: inline;
+}
+
+.atss .at-share-btn, .atss a {
+    position: relative;
+    display: block;
+    width: 31px;
+    margin: 0;
+    outline-offset: -1px;
+    text-align: center;
+    float: left;
+    transition: width .15s ease-in-out;
+    overflow: hidden;
+    background: #e8e8e8;
+    z-index: 100030;
+    cursor: pointer;
+}
+
+
+
+.atss .at-share-btn .at-icon-wrapper, .atss a .at-icon-wrapper {
+    display: block;
+    padding: 4px 0;
+}
+
+.at4-share-title
+{
+color:#c9b03c;
+font-weight: bold;
+font-size: 9px
+}
+.contactform
+{
+ width: 700px;
+ margin: auto;
+}
+
+.about-us .item img {
+    width: 100%;
+    height: 300px;
+}
+.about-us .carousel-inner {
+    height: 300px;
+}
+}
+/*end  contact form */
+/*end media  large screen*/
+
+/*start media very large screen*/
+@media(min-width:1200px){
+  /* start navbar */  
+.navbarr-media
+{
+    width:1170px;
+    margin: auto;
+}
+
+.navbar-nav .dropdown .dropdown-menu 
+{
+ display: none;
+ position: absolute;
+ z-index: 1;
+}
+
+.dropdown:hover .dropdown-menu
+{
+ display: block;
+ transition: all .5s ease-in-out;
+}
+/*end navbar */
+/*start contact form */
+.form-horizontal .form-group-lg .control-label {
+    padding-top: 11px;
+    font-size: 22px;
+}
+/*end  contact form */
+.baner img {
+    width: 100%;
+    height: 250px;
+}
+.aboutt-us .carousel-inner
+{
+ height: 250px;
+}
+.aboutt-us .item img
+{
+ width: 100%;
+ height: 250px;
+}
+
+.navbar-header img {
+    margin-right: 5px;
+}
+.atss .at-share-btn, .atss a {
+    position: relative;
+    display: block;
+    width: 31px;
+    margin: 0;
+    outline-offset: -1px;
+    text-align: center;
+    float: left;
+    transition: width .15s ease-in-out;
+    overflow: hidden;
+    background: #e8e8e8;
+    z-index: 100030;
+    cursor: pointer;
+}
+
+.atss .at-share-btn .at-icon-wrapper, .atss a .at-icon-wrapper {
+    display: block;
+    padding: 4px 0;
+}
+
+.at4-share-title
+{
+color:#c9b03c;
+font-weight: bold;
+font-size: 9px
+}
+.contactform
+{
+ width: 700px;
+ margin: auto;
+}
+.about-us .item img {
+    width: 100%;
+    height: 300px;
+}
+.about-us .carousel-inner {
+    height: 300px;
+}
+}
+
+/*end media very large screen*/
